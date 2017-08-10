@@ -7,3 +7,4 @@ pygments: true
 auto: true
 title: 税金はどこへ行った？
 
+highlighter: rouge
